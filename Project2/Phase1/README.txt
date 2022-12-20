@@ -1,3 +1,3 @@
 Phase 1: The project requires to write test programs to exercise different twitter APIs such as retrieving tweets, user information, hashtags. The twitterPhase1.py script is able to find public tweets posted by a specific user, and tweets with specific hashtags. The output retrieved from Twitter is saved in the output text files.
 
-<img width="1076" alt="tweetsHashTagOutput" src="https://user-images.githubusercontent.com/44420954/208588198-f325eb18-a6a6-42a4-8f1d-8c0598557ae3.png">
+![image](https://user-images.githubusercontent.com/44420954/208588198-f325eb18-a6a6-42a4-8f1d-8c0598557ae3.png)
