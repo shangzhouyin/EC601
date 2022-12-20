@@ -17,6 +17,7 @@ The client can enter a twitter user’s username and then Apply the Twitter API 
 ### Test:
 The output of CSV file
  A snapshot of the csv file
+ ![image](https://user-images.githubusercontent.com/44420954/208594766-0cdbfd22-5d9d-42e0-bb27-ec32064e0eac.png)
 The output of python script, which shows the sentiments of texts
  A snapshot of sentimental analysis
  
